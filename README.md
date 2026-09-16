@@ -1,16 +1,33 @@
+<div align="center">
+
 # 👋 Hi, I'm Mujtaba Khan
 
-### 💻 Frontend Developer • Java Developer • Tech Enthusiast
+### 💻 Frontend Developer • Java Programmer • Tech Enthusiast
+
+<p>
+  <a href="https://github.com/MujtabaKhan0804">
+    <img src="https://img.shields.io/badge/GitHub-MujtabaKhan0804-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mujtaba-khan-863a82385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mujtaba%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mujtabakhan008.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student at **KG Reddy College of Engineering & Technology**
-- 💻 Passionate about **Frontend Development & Java**
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
-- 🛠️ Interested in building practical and useful projects
-- 🚀 Focused on creating clean, responsive and user-friendly digital experiences
+* 🎓 B.Tech student at **KG Reddy College of Engineering & Technology**
+* 💻 Passionate about **Frontend Development & Java**
+* 🌱 Currently strengthening my **Java, DSA & Web Development** skills
+* 🔐 Exploring **Cybersecurity & Ethical Hacking**
+* 🛠️ Interested in building practical and useful projects
+* 📚 Always learning something new and improving my coding skills
 
 ---
 
@@ -18,13 +35,13 @@
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js" />
 </p>
 
 ### Tools & Technologies
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
 </p>
 
@@ -46,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MujtabaKhan0804&theme=github-dark-blue&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com/?user=MujtabaKhan0804&hide_border=true&border_radius=12&theme=github-dark-blue" />
 
 </div>
 
@@ -56,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MujtabaKhan0804&theme=github-compact&hide_border=true&area=true&radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MujtabaKhan0804&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -66,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MujtabaKhan0804&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MujtabaKhan0804&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -77,14 +94,16 @@
 <div align="center">
 
 <a href="https://github.com/MujtabaKhan0804">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MujtabaKhan0804&repo=YOUR-REPOSITORY-1&theme=github_dark&hide_border=true&border_radius=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MujtabaKhan0804&repo=YOUR-REPOSITORY-1&hide_border=true&border_radius=12&theme=github_dark" />
 </a>
 
 <a href="https://github.com/MujtabaKhan0804">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MujtabaKhan0804&repo=YOUR-REPOSITORY-2&theme=github_dark&hide_border=true&border_radius=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MujtabaKhan0804&repo=YOUR-REPOSITORY-2&hide_border=true&border_radius=12&theme=github_dark" />
 </a>
 
 </div>
+
+> 💡 Replace `YOUR-REPOSITORY-1` and `YOUR-REPOSITORY-2` with the actual names of your best repositories.
 
 ---
 
@@ -92,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MujtabaKhan0804/MujtabaKhan0804/output/github-contribution-grid-snake.svg" width="100%"/>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/MujtabaKhan0804/MujtabaKhan0804/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -103,26 +122,16 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mujtaba-khan-863a82385/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mujtaba%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<b>MUJTABA KHAN</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/mujtaba_khan_.08">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28"/>
+  <img src="https://img.shields.io/badge/Instagram-@mujtaba__khan__.08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<b>@MUJTABA_KHAN_.08</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mujtabakhan008.04@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28"/>
+  <img src="https://img.shields.io/badge/Gmail-mujtabakhan008.04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<b>MUJTABAKHAN008.04@GMAIL.COM</b>
 
 </div>
 
