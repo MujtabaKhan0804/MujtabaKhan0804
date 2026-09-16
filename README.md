@@ -4,17 +4,6 @@
 
 ### 💻 Frontend Developer • Java Programmer • Tech Enthusiast
 
-<p>
-  <a href="https://github.com/MujtabaKhan0804">
-    <img src="https://img.shields.io/badge/GitHub-MujtabaKhan0804-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mujtaba-khan-863a82385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mujtaba%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mujtabakhan008.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 </div>
 
